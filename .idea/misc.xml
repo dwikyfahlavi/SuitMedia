@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MSIB/SuitMedia/app/src/main/res/drawable-v24/ic_arrow_right.xml" value="0.33796296296296297" />
+        <entry key="..\:/MSIB/SuitMedia/app/src/main/res/layout/activity_first_screen.xml" value="0.20260416666666667" />
+        <entry key="..\:/MSIB/SuitMedia/app/src/main/res/layout/activity_login.xml" value="0.20260416666666667" />
+        <entry key="..\:/MSIB/SuitMedia/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/MSIB/SuitMedia/app/src/main/res/layout/activity_second_screen.xml" value="0.27309782608695654" />
+        <entry key="..\:/MSIB/SuitMedia/app/src/main/res/layout/activity_second_screen2.xml" value="0.3625" />
+        <entry key="..\:/MSIB/SuitMedia/app/src/main/res/layout/fragment_first.xml" value="0.3625" />
+        <entry key="..\:/MSIB/SuitMedia/app/src/main/res/layout/fragment_second.xml" value="0.3625" />
+        <entry key="..\:/MSIB/SuitMedia/app/src/main/res/layout/item_user.xml" value="0.2957427536231884" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
